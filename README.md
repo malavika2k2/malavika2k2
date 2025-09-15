@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Malavika S Menon
 
-🎓 Final-year B.Tech student in Artificial Intelligence & Data Science at MITS, Kerala.
-🌱 Currently a Software Engineer Intern at **Bicycle.AI**.
-🎯 Passionate about AI, Data Science, and building intelligent systems.
-💡 Focused on creating meaningful and impactful projects.
-
+- 🎓 Final-year B.Tech student in Artificial Intelligence & Data Science at MITS, Kerala.
+- 🌱 Currently a Software Engineer Intern at **Bicycle.AI**.
+- 🎯 Passionate about AI, Data Science, and building intelligent systems.
+- 💡 Focused on creating meaningful and impactful projects.
 ---
 
 ### 🚀 Languages & Tools
