@@ -34,4 +34,4 @@
 
 ### 📬 Let's Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-Malavika%20S%20Menon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malavikasmenon/)
+[![Linkedin Badge](https://img.shields.io/badge/-Malavika%20S%20Menon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malavika-s-menon-4b4255255)
